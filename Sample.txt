@@ -2,3 +2,5 @@ Hello World
 This is.....Pull change
 Branch1 change
 Branch1 change using the pull
+After merge:
+Both values are to be changed
