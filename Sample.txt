@@ -2,5 +2,3 @@ Hello World
 This is.....Pull change
 Branch1 change
 Branch1 change using the pull
-
-Changes applied after changing the branch from main to branch1
